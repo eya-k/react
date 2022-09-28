@@ -1,0 +1,46 @@
+
+.App{
+  background-color: black;
+}
+
+.film{background-color: black;}
+.name{
+  justify-content: left;
+  position: relative;left: 20cm; top: -7.5cm;
+  color: red;
+  font-size: 40px;
+}
+.description{
+  position: relative;left: 20cm; top: -5cm;
+  text-align: left;
+  margin: 0 50px;
+  font-size: 20px;
+}
+.info{
+  position: relative;left: 22cm; top: -6cm;
+  font-size: 15px;
+  text-align: left;
+}
+.butt{
+  position: relative;left: 16cm;
+  padding: 7px 10px;
+}
+.buttW{
+  position: relative;left: 25cm;
+  padding: 7px 10px;
+}
+.cards{
+  
+  
+  justify-content: space-between;
+  margin: 6px 60px;
+}
+
+
+.cardb{
+ background-color: goldenrod;
+}
+.card{
+  margin: 10px 20px;
+
+}
